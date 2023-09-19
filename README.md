@@ -36,7 +36,16 @@ This project focuses on implementing a resume screening and job recommendation s
 - Key Components:
   - Web scraping techniques
   - Data enrichment
- 
+
+
+## Output
+
+
+https://github.com/Leelaprasad001/Recruiter-AI/assets/76583080/514714f8-aeb3-4d70-b946-d73bd9e11d9f
+
+
+
+<a href="https://clipchamp.com/watch/bzYojGhbfKT" >Demo Link</a>
     
 ## Usage
 
