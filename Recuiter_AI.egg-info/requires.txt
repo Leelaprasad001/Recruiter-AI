@@ -1,0 +1,10 @@
+pandas
+Flask
+scikit-learn
+matplotlib
+numpy
+seaborn
+nltk
+pdfx
+spacy
+transformers
